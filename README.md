@@ -17,7 +17,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/PhD%20Researcher-Robotics%20%26%20AI-3b82f6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI%20Engineer-Machine%20Learning-22c55e?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20to-Opportunities-f97316?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Location-United%20States-6366f1?style=for-the-badge" />
 </p>
 
