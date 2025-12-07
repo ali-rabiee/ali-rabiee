@@ -106,12 +106,6 @@ Always exploring, always building.
 - 👤 **Human–Robot Interaction & shared autonomy**  
 - 🧩 **Multimodal signals & intelligent interfaces**
 
----
-
-## ⚡ Fun Fact
-
-I’m not Spiderman…  
-but I’m definitely trying to give robots a few **superpowers** 🕸️🤖
 
 ---
 <p align="center">
