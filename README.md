@@ -1,6 +1,6 @@
 <!-- Top Banner (replace the src with your own banner image URL) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AliRabiee/AliRabiee/main/assets/banner.png" alt="Ali Rabiee | AI & Robotics" width="100%" />
+  <img src="assets/banner.png" alt="Banner" width="40%">
 </p>
 
 <!-- Title + Typing Animation -->
@@ -120,7 +120,7 @@ but I’m definitely trying to give robots a few **superpowers** 🕸️🤖
 </p>
 
 <p align="center">
-  <img src="/workspaces/ali-rabiee/assets/footer-banner.png" 
-       alt="Thanks for visiting!" width="40%" />
+  <img src="assets/footer-banner.png" alt="Thanks for visiting!" width="40%">
 </p>
+
 
