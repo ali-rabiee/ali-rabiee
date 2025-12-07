@@ -24,8 +24,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm passionate about **AI, robotics, and intelligent interactive systems**.  
-My work spans across **Robotics, Reinforcement Learning, Computer Vision, Signal Processing, and GenAI**, with a focus on building systems that make human–robot interaction more natural, reliable, and useful.
+Ph.D. candidate and university fellow with over **5 years** of combined experience in machine learning research and industry experience as a Machine Learning Engineer. I have experience in **Robotics, Reinforcement Learning, Computer Vision, Signal Processing, and GenAI**.
 
 I enjoy working end-to-end on:
 - 🧠 Intelligent decision-making & control  
@@ -63,20 +62,9 @@ Always exploring, always building.
 ## 🚀 What I'm Currently Doing
 
 - Building and experimenting with **AI + Robotics** systems  
-- Working on **simulation, motion planning, and control**  
+- Working on **Multimodal & large models** for perception and interaction  
 - Designing **ML pipelines** for interactive and embodied systems  
 - Continuously improving my **research, engineering, and open-source work**
-
----
-
-## 🧠 Currently Learning
-
-- Advanced **RL & control** for robots  
-- **Sim-to-real** pipelines and large-scale simulation  
-- **Multimodal & large models** for perception and interaction  
-- Better **systems design & engineering practices**
-
----
 
 ## 🛠️ Tech & Tools
 
