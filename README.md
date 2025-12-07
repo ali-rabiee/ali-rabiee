@@ -5,7 +5,10 @@
 
 <!-- Title + Typing Animation -->
 <h1 align="center">Hi there, I'm Ali Rabiee <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px"></h1>
-
+<p align="center">
+  <b>Ph.D. Researcher</b> @ Translational Neurorobotics Lab<br>
+  <b>University of Rhode Island (URI)</b><br>
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3200&pause=800&color=3CCF91&center=true&vCenter=true&width=800&lines=AI+%26+Robotics+%7C+Machine+Learning+%7C+Intelligent+Systems;Human%E2%80%93Robot+Interaction+Enthusiast;Always+learning%2C+always+building+%F0%9F%9A%80">
 </p>
