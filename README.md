@@ -42,18 +42,19 @@ Always exploring, always building.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ali-rabiee">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" />
   </a>
   <a href="https://scholar.google.com/citations?user=8A_RES0AAAAJ">
-    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white&style=for-the-badge" height="40" />
   </a>
   <a href="https://x.com/AliRabiee_AI">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" height="40" />
   </a>
   <a href="https://ali-rabiee.github.io/">
-    <img src="https://img.shields.io/badge/Personal%20Website-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/Personal%20Website-000000?logo=aboutdotme&logoColor=white&style=for-the-badge" height="40" />
   </a>
 </p>
+
 
 ---
 
