@@ -114,8 +114,5 @@ Always exploring, always building.
   ⭐ If you enjoy my work, feel free to star the repositories you like.
 </p>
 
-<p align="center">
-  <img src="assets/footer-banner.png" alt="Thanks for visiting!" width="40%">
-</p>
 
 
