@@ -31,7 +31,9 @@
         </td>
     </tr>
 </table>
+
 ---
+
 ## 🧑‍💻 About Me
 
 Ph.D. candidate and university fellow with over **5 years** of combined experience in machine learning research and industry experience as a Machine Learning Engineer. I have experience in **Robotics, Reinforcement Learning, Computer Vision, Signal Processing, and GenAI**.
