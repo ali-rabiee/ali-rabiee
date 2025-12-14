@@ -21,7 +21,17 @@
 </p>
 
 ---
-
+<table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+        <!-- <td>
+            <img src="https://github-readme-stats.vercel.app/api?username=ali-rabiee&show_icons=True"/>
+        </td> -->
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-rabiee&layout=compact&langs_count=10"/>
+        </td>
+    </tr>
+</table>
+---
 ## 🧑‍💻 About Me
 
 Ph.D. candidate and university fellow with over **5 years** of combined experience in machine learning research and industry experience as a Machine Learning Engineer. I have experience in **Robotics, Reinforcement Learning, Computer Vision, Signal Processing, and GenAI**.
