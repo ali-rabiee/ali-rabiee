@@ -21,18 +21,6 @@
 </p>
 
 ---
-<!-- <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-        <!-- <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=ali-rabiee&show_icons=True"/>
-        </td> -->
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-rabiee&layout=compact&langs_count=10"/>
-        </td>
-    </tr>
-<!-- </table> --> -->
-
----
 
 ## 🧑‍💻 About Me
 
@@ -60,7 +48,7 @@ Always exploring, always building.
   <a href="https://scholar.google.com/citations?user=8A_RES0AAAAJ">
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white&style=for-the-badge" height="40" />
   </a>
-  <a href="https://x.com/AliRabiee_AI">
+  <a href="https://x.com/alirabieeai">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" height="40" />
   </a>
   <a href="https://ali-rabiee.com/">
