@@ -21,7 +21,7 @@
 </p>
 
 ---
-<table border="0" cellspacing="0" cellpadding="0">
+<!-- <table border="0" cellspacing="0" cellpadding="0">
     <tr>
         <!-- <td>
             <img src="https://github-readme-stats.vercel.app/api?username=ali-rabiee&show_icons=True"/>
@@ -30,7 +30,7 @@
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-rabiee&layout=compact&langs_count=10"/>
         </td>
     </tr>
-</table>
+<!-- </table> --> -->
 
 ---
 
@@ -50,7 +50,7 @@ Always exploring, always building.
 
 ## 🌍 Where to Find Me
 
-- 🌐 Portfolio: **https://ali-rabiee.github.io/**
+- 🌐 Portfolio: **https://ali-rabiee.com/**
 - 📫 Email: **alirabiee1997@gmail.com**
 
 <p align="center">
@@ -63,7 +63,7 @@ Always exploring, always building.
   <a href="https://x.com/AliRabiee_AI">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" height="40" />
   </a>
-  <a href="https://ali-rabiee.github.io/">
+  <a href="https://ali-rabiee.com/">
     <img src="https://img.shields.io/badge/Personal%20Website-000000?logo=aboutdotme&logoColor=white&style=for-the-badge" height="40" />
   </a>
 </p>
