@@ -10,7 +10,7 @@
   <b>University of Rhode Island (URI)</b><br>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3200&pause=800&color=3CCF91&center=true&vCenter=true&width=800&lines=AI+%26+Robotics+%7C+Machine+Learning+%7C;Human%E2%80%93Robot+Interaction+Enthusiast;Always+learning%2C+always+building+%F0%9F%9A%80">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3200&pause=800&color=3CCF91&center=true&vCenter=true&width=800&lines=AI+%26+Robotics+%7C+Machine+Learning;Human%E2%80%93Robot+Interaction+Enthusiast;Always+learning%2C+always+building+%F0%9F%9A%80">
 </p>
 
 <!-- Badges Row -->
